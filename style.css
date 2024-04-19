@@ -1,0 +1,20 @@
+.textOne{
+    background-color: rgb(223, 226, 226);
+    font-size: 25px;
+    color:hotpink;
+}
+#textTwo{
+    background-color: rgb(206, 206, 206);
+}
+#textThree{
+    color:hotpink;
+    font-size: 25px;
+}
+#headertwo{
+    color:hotpink;
+    font-size: 25px;
+}
+#footer{color:hotpink;
+    font-size: 25px;
+    background-color: rgb(206, 206, 206);
+}
